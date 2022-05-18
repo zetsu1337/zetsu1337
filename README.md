@@ -24,6 +24,7 @@
 ![K](https://img.shields.io/badge/-K-090909?style=for-the-badge)
 ![E](https://img.shields.io/badge/-E-090909?style=for-the-badge)
 ![Y](https://img.shields.io/badge/-Y-090909?style=for-the-badge)
+
 ![P](https://img.shields.io/badge/-P-090909?style=for-the-badge)
 ![O](https://img.shields.io/badge/-O-090909?style=for-the-badge)
 ![Z](https://img.shields.io/badge/-Z-090909?style=for-the-badge)
