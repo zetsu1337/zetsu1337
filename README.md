@@ -1,4 +1,4 @@
-[![Header](https://github.com/zetsu1337/zetsu1337/blob/main/assets/uzi.gif)]
+![Header](https://github.com/zetsu1337/zetsu1337/blob/main/assets/uzi.gif)
 
 ## I am a developer of bots for social networks and websites
 
